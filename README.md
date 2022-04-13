@@ -1,2 +1,2 @@
 # PeliculasPagina
-Pagina web que simula la gestión de películas, sin conexión a back-end.
+Pagina web hecha en angular que simula la gestión de películas, sin conexión a back-end.
