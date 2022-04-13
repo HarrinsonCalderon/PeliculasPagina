@@ -1,0 +1,7 @@
+.check{
+    color: orange;
+}
+/*para poner mano encima de la estrella*/
+mat-icon{
+    cursor: pointer;
+}
